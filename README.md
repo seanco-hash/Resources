@@ -11,3 +11,6 @@ Amazing resources I seen along the way - divided by subjects
   https://github.com/vntalking/ebooks-free/blob/master/Cracking%20The%20Machine%20Learning%20Interview.pdf
 - General interview tips:
   https://towardsdatascience.com/top-tips-for-a-great-data-science-interview-6453e01d0859
+- Salary negotiation (Hebrew):
+  https://www.youtube.com/watch?v=pzq37L4UBUU&t=1579s&ab_channel=Reversim
+  ג
